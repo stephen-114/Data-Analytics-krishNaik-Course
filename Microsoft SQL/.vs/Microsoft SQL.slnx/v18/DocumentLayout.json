@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data Analytics-KrishNaik Course\\Microsoft SQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Data Analytics-KrishNaik Course\\Microsoft SQL\\SQLQuery1.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql - localhost.employee_details (DESKTOP-MM21EGK\\STEPHEN (65))",
+              "DocumentMoniker": "D:\\Data Analytics-KrishNaik Course\\Microsoft SQL\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "D:\\Data Analytics-KrishNaik Course\\Microsoft SQL\\SQLQuery1.sql - localhost.employee_details (DESKTOP-MM21EGK\\STEPHEN (65))*",
+              "RelativeToolTip": "SQLQuery1.sql - localhost.employee_details (DESKTOP-MM21EGK\\STEPHEN (65))*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-08-22T06:49:18.02Z",
+              "EditorCaption": " - localhost.employee_details (DESKTOP-MM21EGK\\STEPHEN (65))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
